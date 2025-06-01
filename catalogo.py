@@ -12,6 +12,9 @@ class Pelicula:
 
     def __str__(self):
         return self.__nombre
+def contar(self):
+    peliculas = self.listar()
+    return len(peliculas)
 
 
 class CatalogoPeliculas:
