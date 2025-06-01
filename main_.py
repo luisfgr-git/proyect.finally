@@ -57,3 +57,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+print(" Se puede salir eligiendo la opción 4.")
